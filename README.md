@@ -1,7 +1,7 @@
 Hi there, I'm Minjoo.
 
 - 🎓 Currently pursuing an MsBA in Business Analytics, Data Science & Operations at @USC (https://www.usc.edu/)
-- 📊 Experienced AML Compliance Analyst & KYC Analyst with a solid background in both fintech startups and global banking sectors @HSBC @SUMITOMOMITSUI
+- 📊 Experienced AML Compliance Analyst & KYC Analyst with a solid background in both fintech startups and global banking sectors 
 - 🧩 Passionate about leveraging data analytics and machine learning to solve complex problems and streamline compliance and operational processes
 
 <!---
