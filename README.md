@@ -1,10 +1,14 @@
-Hi there, I'm Minjoo.
+👋 Hi, I’m Minjoo!
 
-- 🎓 Currently pursuing an MsBA in Business Analytics, Data Science & Operations at @USC (https://www.usc.edu/)
-- 📊 Experienced AML Compliance Analyst & KYC Analyst with a solid background in both fintech startups and global banking sectors 
-- 🧩 Passionate about leveraging data analytics and machine learning to solve complex problems and streamline compliance and operational processes
+👀 I’m deeply fascinated by the potential of data to drive innovation and solve complex problems. 
 
-<!---
-minjoos/minjoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a strong background as a business analyst in fintech and banking, I specialize in the analysis of customer identification, transaction monitoring, and fraud detection through advanced data analysis techniques.
+
+After completing my undergraduate degree at UC Berkeley, I am currently pursuing a Master's in Business Analytics (MSBA) at the University of Southern California. My professional experience includes roles at a leading fintech cryptocurrency service platform, where I focused on customer identification and verification processes, and several global banks, where I specialized in analyzing corporate transactions and anti-money laundering activities.
+
+My skillset includes:
+
+Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, pytorch, tensorflow), SQL 
+Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel and Powerpoint, AWS, Snowflake, JIRA
+
+📫 Feel free to reach out via email at [minjoosu@usc.edu](mailto:minjoosu@usc.edu).
