@@ -11,6 +11,7 @@
 🎯 My skillset includes:
 
 Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, pytorch, tensorflow), SQL 
+
 Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel and Powerpoint, AWS, Snowflake, JIRA
 
 📫 Feel free to reach out via email at [minjoosu@usc.edu](mailto:minjoosu@usc.edu).
