@@ -8,7 +8,7 @@
 
 🎯 Technical Proficiencies:
 
-	•	Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, PyTorch, TensorFlow), SQL, R
-	•	Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel, PowerPoint, AWS, Snowflake, RStudio, JIRA
+	•Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, PyTorch, TensorFlow), SQL, R
+	•Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel, PowerPoint, AWS, Snowflake, RStudio, JIRA
 
 📫 I’m always open to discussing data-driven projects and opportunities. Feel free to reach out via email at minjoosu@usc.edu.
