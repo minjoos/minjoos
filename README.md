@@ -1,17 +1,14 @@
 👋 Hi, I’m Minjoo!
 
-📈 I’m deeply fascinated by the potential of data to drive innovation and solve complex problems. 
+📈 I am passionately driven by the transformative power of data to innovate and resolve complex challenges.
 
-👩🏻‍💻 With a strong background as a business analyst in fintech and banking, I specialize in the analysis of customer identification, transaction monitoring, and fraud detection through advanced data analysis techniques.
+📚 A proud alumna of UC Berkeley with a BA in Economics, I am currently enhancing my expertise through a Master’s in Business Analytics (MSBA) at the USC Marshall School of Business.
 
-📚 After completing my undergraduate degree at UC Berkeley, I am currently pursuing a Master's in Business Analytics (MSBA) at the University of Southern California. 
+💼 My professional experience includes leading high-impact technical projects in fintech, managing blockchain analysis and fraud detection systems, optimizing transaction monitoring, and performing sophisticated risk assessment modeling. At global banks, I excelled in leveraging SQL, Python, and advanced Excel to analyze customer data, streamline corporate transactions, and enhance fraud detection processes.
 
-💼 My professional experience includes roles at a leading fintech cryptocurrency service platform, where I focused on customer identification and verification processes, and several global banks, where I specialized in analyzing corporate transactions and anti-money laundering activities.
+🎯 Technical Proficiencies:
 
-🎯 My skillset includes:
+	•	Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, PyTorch, TensorFlow), SQL, R
+	•	Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel, PowerPoint, AWS, Snowflake, RStudio, JIRA
 
-Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, scipy, nltk, spacy, pytorch, tensorflow), SQL 
-
-Software: PostgreSQL, Jupyter, Tableau, Power BI, Advanced MS Excel and Powerpoint, AWS, Snowflake, JIRA
-
-📫 Feel free to reach out via email at [minjoosu@usc.edu](mailto:minjoosu@usc.edu).
+📫 I’m always open to discussing data-driven projects and opportunities. Feel free to reach out via email at minjoosu@usc.edu.
