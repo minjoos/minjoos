@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to my GitHub!
 
-I'm Minjoo (Mia) Sung — a data-driven analyst with 5+ years of experience spanning traditional banking, fintech startups, and the intersection of fraud prevention, risk management, and compliance analytics. With a foundation in Economics from UC Berkeley and a Master’s in Business Analytics (STEM) from USC Marshall, I bring a unique blend of domain expertise, data literacy, and operational awareness to solving some of the most pressing challenges in financial services.
+I'm Minjoo (Mia) Sung — a data-driven analyst with 5+ years of experience spanning traditional banking, fintech startups, and the intersection of fraud prevention, risk management, and data analytics. With a foundation in Economics from UC Berkeley and a Master’s in Business Analytics (STEM) from USC Marshall, I bring a unique blend of domain expertise, data literacy, and operational awareness to solving some of the most pressing challenges in financial services.
 
 ---
 
