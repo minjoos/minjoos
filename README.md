@@ -1,72 +1,62 @@
-# Minjoo (Mia) Sung – Fraud, Risk & Data Analyst
+# Minjoo (Mia) Sung – Fraud & Risk Analyst | Trust & Safety | Detection Strategy
 
-## 👋 Welcome to my GitHub!
+👋 Welcome to my GitHub!
 
-I'm Minjoo (Mia) Sung — a data-driven analyst with 5+ years of experience spanning traditional banking, fintech startups, and the intersection of fraud prevention, risk management, and data analytics. With a foundation in Economics from UC Berkeley and a Master’s in Business Analytics (STEM) from USC Marshall, I bring a unique blend of domain expertise, data literacy, and operational awareness to solving some of the most pressing challenges in financial services.
+I'm Minjoo (Mia) Sung — a fraud and risk analyst with 5+ years of experience across traditional banking, fintech startups, and the intersection of fraud prevention, compliance, and detection logic design. I combine domain expertise with hands-on data tools to help organizations reduce risk, improve reviewer efficiency, and build scalable, explainable detection systems.
 
 ---
 
 ## 🧠 About Me
 
-I believe that effective fraud and risk analytics go beyond just flagging anomalies. They require thoughtful design, contextual understanding, cross-functional collaboration, and scalable systems. My professional journey reflects this perspective:
+I believe effective fraud and risk analytics require more than just flagging anomalies — they demand context-driven rule logic, operational alignment, and smart prioritization of alerts that real users can act on. My experience reflects this philosophy:
 
-- At **HSBC** and **SMBC**, I developed a deep understanding of AML/KYC regulations, filing SARs, onboarding institutional clients, and screening profiles against sanctions/PEP lists using tools like LexisNexis, RDC, and World-Check.
-- At **Bank of Communications**, I worked on deposit risk metrics, created dashboards using Power BI, and performed trend analysis to support client retention and regulatory reporting.
-- At **ProBit Global**, a fast-paced crypto exchange, I led the implementation of real-time fraud detection systems using GTONE and Chainalysis, collaborated with engineers to tune detection logic, and reduced false positives by 30%.
-- As a graduate student at **USC**, I focused on ML-based fraud detection projects, including a credit card fraud model using LightGBM that achieved 87% precision for the top 3% riskiest transactions, resulting in a projected $40M+ in annual savings.
+- **At ProBit Global**, a fast-paced crypto exchange, I led the design and tuning of real-time fraud detection rules using GTONE and Chainalysis. I collaborated with engineers to reduce false positives by 30% and align alert triggers with abuse patterns.
+- **At HSBC and SMBC**, I performed CDD reviews, transaction monitoring, and AML screening using LexisNexis, World-Check, and SWIFT, supporting institutional onboarding and regulatory compliance.
+- **At Bank of Communications**, I built dashboards to monitor deposit risk and performed behavioral analysis to support retention and reporting.
+- **At USC**, I completed a fraud detection capstone project using Python (LightGBM), focusing on behavior-based feature engineering, rule validation, and alert precision — simulating a real-world detection workflow rather than purely academic modeling.
 
 ---
 
 ## 🎯 Mission
 
-> "Preventing fraud isn’t just about catching bad actors — it’s about enabling trust, transparency, and resilience in every transaction."
+> "Fraud prevention isn't just about stopping bad actors — it's about building trust and resilience into the system itself."
 
-I view my work as sitting at the intersection of analytics and integrity. Whether building fraud models, tuning detection rules, automating KYC workflows, or supporting audits, my goal is to contribute to safer financial ecosystems through data and thoughtful systems.
-
-I’m especially motivated by roles that involve:
-- **Fraud strategy and risk modeling**
-- **Transaction monitoring optimization**
-- **Compliance automation using data science**
-- **Cross-functional analytics across risk, operations, and engineering**
+I view my work as bridging risk detection and operational clarity. Whether it's tuning velocity-based rules, reducing alert fatigue, or designing explainable detection logic, my focus is on enabling scalable risk mitigation that supports both users and reviewers.
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠 Skills & Tools
 
-**Data Analytics & Modeling**  
-Python, SQL, pandas, NumPy, LightGBM, scikit-learn, matplotlib, seaborn, Excel (advanced), Jupyter Notebooks
+**Detection Logic & Data Analysis**  
+Python, SQL, pandas, Power BI, Tableau, Excel (advanced)
 
-**Visualization & Reporting**  
-Power BI, Tableau, Looker, Excel dashboards
+**Fraud & Risk Systems**  
+GTONE, Chainalysis, LexisNexis, SWIFT, World-Check, Firco
 
-**Fraud & Compliance Systems**  
-GTONE, Chainalysis, LexisNexis, RDC, World-Check, Firco, Dow Jones RiskCenter
+**Workflow & Collaboration**  
+Jira, Confluence, Notion, Slack, AirTable
 
-**Domain Knowledge**  
-AML/KYC, SAR filing, rule tuning, fraud typologies, RBA frameworks, audit readiness, financial operations, suspicious activity detection, high-risk customer profiling
-
-**Collaboration & Workflow**  
-Jira, Confluence, Notion, Slack, Figma, AirTable
+**Domain Expertise**  
+CDD/EDD, Transaction Monitoring, AML Screening, Rule Tuning, Reviewer Feedback Integration, SAR Filing, High-Risk Client Profiling
 
 ---
 
 ## 🧩 Projects & Use Cases
 
-### 🔹 Credit Card Fraud Detection (USC MSBA Capstone)
-Developed a LightGBM model trained on over 100,000 transactions to detect fraud in real-time.  
-- Precision: 57% for top 3% most risky transactions  
-- Potential savings: $40M+ annually  
-- Engineered time-window features and tuned hyperparameters for imbalanced data
+🔹 **Fraud Rule Optimization (ProBit Global)**  
+- Designed and tuned real-time rules using GTONE and transaction intelligence.  
+- Reduced false positives by 30% through threshold consolidation and flag prioritization.  
+- Improved reviewer adoption by aligning rules with abuse patterns.
 
-### 🔹 Application Fraud Rule Optimization (ProBit Global)
-Led the design and tuning of real-time fraud rules using GTONE; identified redundant thresholds and optimized flag logic.  
-- False positive rate reduced by 30%  
-- Aligned rulebook logic with transaction trends
+🔹 **Credit Card Fraud Detection (USC MSBA Capstone)**  
+- Built a Python-based LightGBM model on 100,000+ transactions.  
+- Focused on time-window features and validation logic.  
+- Balanced precision (57% top 3% risk) with operational scalability.
 
-### 🔹 AML Screening & Client Risk Review (HSBC)
-Screened institutional clients monthly, assessed risk ratings, and prepared audit-ready documentation.  
-- Handled 150+ profiles/month  
-- Collaborated with internal UAT teams to test KYC system upgrades
+🔹 **AML Screening & KYC Review (HSBC)**  
+- Reviewed 150+ institutional profiles/month using LexisNexis & RDC.  
+- Collaborated on KYC platform testing and alert workflow updates.  
+- Produced audit-ready reports with risk classification.
 
 ---
 
@@ -74,27 +64,22 @@ Screened institutional clients monthly, assessed risk ratings, and prepared audi
 
 **M.S. in Business Analytics (STEM)**  
 University of Southern California – Marshall School of Business  
-Focus: Fraud analytics, machine learning, time-series forecasting, data engineering
+Focus: Fraud detection, time-series modeling, data pipelines
 
 **B.A. in Economics**  
-University of California, Berkeley  
+University of California, Berkeley
 
 ---
 
 ## 📫 Get in Touch
 
-- 📎 [LinkedIn](https://linkedin.com/in/minjoosung)
-- 📧 [Email](mailto:minjoosu@usc.edu)
+- 📎 [LinkedIn](https://www.linkedin.com/in/minjoosung)  
+- 📧 minjoosung.usc@gmail.com
 
-I’m currently open to full-time opportunities in:
-- Fraud Analytics & Strategy
-- AML Compliance & Transaction Monitoring
-- Risk & Data Analytics (Fintech, Banking, Payments)
-- Compliance Automation & RegTech
+I’m currently open to full-time roles in:
+- Fraud & Risk Analytics  
+- Trust & Safety / Detection Strategy  
+- Fincrime Intelligence & CDD  
+- Risk Operations & Alert Logic Optimization
 
-Let’s connect if you’re building something meaningful at the intersection of data, integrity, and impact.
-
----
-
-> "My mission is to fight financial crime with curiosity, data, and systems that scale."
-
+Let’s connect if you're solving detection challenges at scale — and need someone who bridges data and domain with clarity and impact.
