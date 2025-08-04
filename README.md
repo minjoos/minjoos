@@ -1,30 +1,28 @@
-Minjoo (Mia) Sung – Fraud & Risk Analyst | Trust & Safety | Detection Strategy
+# Minjoo (Mia) Sung – Data & Risk Analyst | SQL · Python · Fraud Analytics
 
 👋 Welcome!
 
-I’m a Fraud & Risk Analyst with 5+ years of experience spanning banking, fintech, and crypto.
-I combine SQL & Python analytics, fraud rule development, and risk operations to help organizations prevent fraud, reduce false positives, and enhance operational efficiency.
+I’m a Data & Risk Analyst with 5+ years of experience across banking, fintech, and crypto.  
+I combine SQL/Python analytics, fraud detection, and operational risk insights to help organizations make data-driven, safer decisions.
 
-⸻
+---
 
 💡 What I Do
 
-• Fraud Detection & Rule Tuning – Build and optimize detection logic to catch abuse without overwhelming reviewers.  
-• Transaction & Risk Operations – Monitor and investigate high-risk activity, ensuring compliance and trust at scale.  
-• Data-Driven Efficiency – Automate reporting, validate signals, and align operational workflows with business KPIs.
+• **Data & Risk Analytics** – Analyze transaction data using SQL/Python to detect anomalies and support business intelligence.  
+• **Fraud Detection & Rule Tuning** – Build and optimize rules that reduce false positives and mitigate operational risk.  
+• **Workflow Optimization** – Automate reporting and validate signals to improve efficiency and align with key KPIs.
 
-⸻
+---
 
 🛠 Tools & Skills
 
-SQL · Python · Fraud Detection · Transaction Monitoring · LexisNexis · World‑Check · Tableau · Google BigQuery
+SQL · Python (Pandas) · Tableau · Fraud Detection · Transaction Monitoring  
+LexisNexis · World‑Check · Google BigQuery · Alteryx
 
-⸻
+---
 
 📫 Let’s Connect
 
-Open to roles in Fraud & Risk Analytics, Trust & Safety, and Risk Operations.
-
-LinkedIn: www.linkedin.com/in/minjoosung | minjoosu@usc.edu
-
-⸻
+I’m open to full-time roles in Data Analytics, Risk Operations, and Fraud/Trust & Safety.  
+LinkedIn: www.linkedin.com/in/minjoosung | Email: minjoosu@usc.edu
