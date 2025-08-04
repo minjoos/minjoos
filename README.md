@@ -2,7 +2,7 @@ Minjoo (Mia) Sung – Fraud & Risk Analyst | Trust & Safety | Detection Strategy
 
 👋 Welcome!
 
-I’m a Fraud & Risk Analyst with 6+ years of experience spanning banking, fintech, and crypto.
+I’m a Fraud & Risk Analyst with 5+ years of experience spanning banking, fintech, and crypto.
 I combine SQL & Python analytics, fraud rule development, and risk operations to help organizations prevent fraud, reduce false positives, and enhance operational efficiency.
 
 ⸻
