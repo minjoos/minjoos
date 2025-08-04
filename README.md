@@ -1,4 +1,4 @@
-# Minjoo (Mia) Sung – Data & Risk Analyst | SQL · Python · Fraud Analytics
+# Minjoo (Mia) Sung – Data & Risk Analyst 
 
 👋 Welcome!
 
