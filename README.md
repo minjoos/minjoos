@@ -24,6 +24,7 @@ SQL · Python · Fraud Detection · Transaction Monitoring · LexisNexis · Worl
 📫 Let’s Connect
 
 Open to roles in Fraud & Risk Analytics, Trust & Safety, and Risk Operations.
-LinkedIn | minjoosu@usc.edu
+
+LinkedIn: www.linkedin.com/in/minjoosung | minjoosu@usc.edu
 
 ⸻
