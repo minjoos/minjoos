@@ -8,9 +8,10 @@ I combine SQL & Python analytics, fraud rule development, and risk operations to
 ⸻
 
 💡 What I Do
-	•	Fraud Detection & Rule Tuning – Build and optimize detection logic to catch abuse without overwhelming reviewers.
-	•	Transaction & Risk Operations – Monitor and investigate high‑risk activity, ensuring compliance and trust at scale.
-	•	Data‑Driven Efficiency – Automate reporting, validate signals, and align operational workflows with business KPIs.
+
+• Fraud Detection & Rule Tuning – Build and optimize detection logic to catch abuse without overwhelming reviewers.  
+• Transaction & Risk Operations – Monitor and investigate high-risk activity, ensuring compliance and trust at scale.  
+• Data-Driven Efficiency – Automate reporting, validate signals, and align operational workflows with business KPIs.
 
 ⸻
 
