@@ -1,4 +1,4 @@
-markdown# Minjoo (Mia) Sung | Data & Risk Analyst
+# Minjoo (Mia) Sung | Data & Risk Analyst
 *Transforming financial crime prevention through data science and analytics*
 
 ## 👋 About Me
