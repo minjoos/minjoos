@@ -44,16 +44,26 @@ Fraud Detection | Risk Analytics | AML/KYC | Transaction Monitoring | Feature En
 - **Data Scale**: 97K+ transaction records with temporal validation
 
 ## 💼 Professional Experience
-🏢 ProBit Global (2021-2023)     │ Fraud & Risk Analyst
-└── Led AML modernization, investigated synthetic identity rings
-🏦 Bank of Communications (2020-2021) │ Data Analyst
-└── Transaction analysis, regulatory reporting, data visualization
-🏛️ SMBC Asia Pacific (2019-2020)     │ Transaction Monitoring Analyst
-└── Cross-border payment oversight, risk assessment automation
-🔒 HSBC (2017-2019)             │ Risk & Compliance Analyst
-└── KYC/EDD operations, SAR filing, sanctions screening
-🍎 Apple (2016)                 │ Global Product Launch Operations
-└── Cross-functional coordination, process optimization
+
+**🏢 ProBit Global** | *Fraud & Risk Analyst* | 2021-2023
+- Led AML modernization and investigated synthetic identity rings
+- Built ML fraud detection systems achieving 61%+ detection rates
+
+**🏦 Bank of Communications** | *Data Analyst* | 2020-2021  
+- Transaction analysis, regulatory reporting, data visualization
+- Processed large-scale financial datasets for compliance operations
+
+**🏛️ SMBC Asia Pacific** | *Transaction Monitoring Analyst* | 2019-2020
+- Cross-border payment oversight and risk assessment automation
+- Implemented transaction monitoring rules using specialized tools
+
+**🔒 HSBC** | *Risk & Compliance Analyst* | 2017-2019
+- KYC/EDD operations, SAR filing, sanctions screening
+- Managed high-risk customer portfolios and regulatory compliance
+
+**🍎 Apple** | *Global Product Launch Operations* | 2016
+- Cross-functional coordination and process optimization
+- Supported global product launches with precision timing
 
 ## 🎓 Education & Certifications
 
