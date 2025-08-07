@@ -46,8 +46,8 @@ Fraud Detection | Risk Analytics | AML/KYC | Transaction Monitoring | Feature En
 ## 💼 Professional Experience
 
 **🏢 ProBit Global** | *Fraud & Risk Analyst* | 2021-2023
-- Led AML modernization and investigated synthetic identity rings
-- Built ML fraud detection systems achieving 61%+ detection rates
+- Led AML system modernization with Deloitte consulting team, contributing to 200% revenue growth
+- Built fraud detection rules and monitoring processes for high-risk transactions
 
 **🏦 Bank of Communications** | *Data Analyst* | 2020-2021  
 - Transaction analysis, regulatory reporting, data visualization
