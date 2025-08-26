@@ -90,7 +90,7 @@ Actively seeking **Data Analyst**, **Risk Analyst**, **Fraud Analyst**, or **Tru
 ## 📫 Let's Connect
 
 **💼 LinkedIn**: [linkedin.com/in/minjoosung](https://linkedin.com/in/minjoosung)  
-**📧 Email**: minjoosu@usc.edu  
+**📧 Email**: mia.sung.us@gmail.com  
 **🌍 Location**: Open to LA, SF Bay Area, NYC, Seattle, Austin, Boston, Chicago
 
 ---
