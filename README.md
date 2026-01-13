@@ -43,28 +43,6 @@ Fraud Detection | Risk Analytics | AML/KYC | Transaction Monitoring | Feature En
 - **Tech Stack**: Python, Multiple ML Algorithms, Benford's Law, Geographic Risk Scoring
 - **Data Scale**: 97K+ transaction records with temporal validation
 
-## 💼 Professional Experience
-
-**🏢 ProBit Global** | *Fraud & Risk Analyst* | 2021-2023
-- Led AML system modernization with Deloitte consulting team, contributing to 200% revenue growth
-- Built fraud detection rules and monitoring processes for high-risk transactions
-
-**🏦 Bank of Communications** | *Data Analyst* | 2020-2021  
-- Transaction analysis, regulatory reporting, data visualization
-- Processed large-scale financial datasets for compliance operations
-
-**🏛️ SMBC Asia Pacific** | *Transaction Monitoring Analyst* | 2019-2020
-- Cross-border payment oversight and risk assessment automation
-- Implemented transaction monitoring rules using specialized tools
-
-**🔒 HSBC** | *Risk & Compliance Analyst* | 2017-2019
-- KYC/EDD operations, SAR filing, sanctions screening
-- Managed high-risk customer portfolios and regulatory compliance
-
-**🍎 Apple** | *Global Product Launch Operations* | 2016
-- Cross-functional coordination and process optimization
-- Supported global product launches with precision timing
-
 ## 🎓 Education & Certifications
 
 **🎓 Master of Science in Business Analytics** | USC Marshall School of Business (2025)
