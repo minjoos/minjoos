@@ -1,7 +1,7 @@
 # Minjoo (Mia) Sung | Risk & Fraud Analyst
 
 ## 👋 About Me
-Risk & Fraud Analyst with **5+ years of specialized experience** in fraud detection and financial crime prevention across **traditional banking** (HSBC, SMBC) and **innovative fintech** (ProBit Global). Recent **USC Marshall MSBA graduate** with expertise in machine learning applications for fraud analytics.
+Risk & Fraud Analyst with **6+ years of specialized experience** in fraud detection and financial crime prevention across **traditional banking** (HSBC, SMBC) and **innovative fintech** (ProBit Global). Recent **USC Marshall MSBA graduate** with expertise in machine learning applications for fraud analytics.
 
 **My Journey**: Apple Operations → Banking Compliance → Fintech Innovation → Advanced Analytics
 
@@ -60,15 +60,10 @@ Fraud Detection | Risk Analytics | AML/KYC | Transaction Monitoring | Feature En
 - **Business Impact Focus**: Always tie technical solutions to measurable outcomes
 - **Cross-Cultural Perspective**: Global experience across US and Asia-Pacific markets
 
-## 📈 Current Focus
-
-Actively seeking **Data Analyst**, **Risk Analyst**, **Fraud Analyst**, or **Trust & Safety** roles where I can leverage my distinctive blend of domain expertise and technical skills to drive secure, data-informed growth.
-
 ## 📫 Let's Connect
 
 **💼 LinkedIn**: [linkedin.com/in/minjoosung](https://linkedin.com/in/minjoosung)  
 **📧 Email**: mia.sung.us@gmail.com  
-**🌍 Location**: Open to LA, SF Bay Area, NYC, Seattle, Austin, Boston, Chicago
 
 ---
 *"Every dataset tells a story. My job is to find the anomalies that matter."*
