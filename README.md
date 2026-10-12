@@ -11,7 +11,7 @@ Fraud detection, risk analytics, and identity & payments risk, built on SQL/BigQ
 - **Fraud detection & rule quality:** owning rule portfolios, tuning signal combinations and thresholds against investigation outcomes, and cutting non-actionable alerts while known fraud is still caught
 - **Identity & onboarding risk:** evaluating vendor scores and onboarding decisions against downstream fraud, balancing fraud capture, review volume, and customer friction
 - **Payments risk & root-cause analysis:** tracing anomalies to their source in BigQuery and partnering with Engineering through remediation
-- **Metric integrity:** rebuilding loss methodology, tracing risk metrics to source tables, and validating numbers before they reach leadership
+- **Metric integrity:** rebuilding loss methodology, tracing risk metrics to source tables, and validating the numbers behind board and leadership reporting
 - **Investigations → controls:** account-takeover and linked-account analysis with device, IP, behavioral, and transaction signals, turned into scalable onboarding controls
 
 ## Selected work highlights
@@ -19,10 +19,10 @@ Fraud detection, risk analytics, and identity & payments risk, built on SQL/BigQ
 *Professional work. No confidential data is published here.*
 
 **Monzo US**
-- Rebuilt U.S. fraud-loss methodology in BigQuery across chargebacks, recoveries, write-offs, and negative balances; corrected a 35% overcount in reported losses
+- Rebuilt U.S. fraud-loss methodology in BigQuery across three source datasets, aligning definitions with Monzo UK; fixed loss classification errors (including won chargebacks counted as losses) and revised reported fraud losses down by 35%
 - Backtested a vendor fraud score across 27K+ onboarding applications with Data Science; recommended targeted verification and manual review rather than automatic rejection
 - Traced a negative-balance spike to an ACH return-file issue blocking ~250 valid returns; partnered with Engineering on remediation
-- Validated seven fraud and operations metrics across BigQuery and Looker, uncovering a 26% understatement in fraud cost per active customer
+- Validated seven fraud and operations metrics across BigQuery and Looker, finding that fraud cost per active customer needed a 26% upward correction; supported an overnight board risk update by recalculating 12 months of fraud-loss bps (exact match)
 
 **ProBit Global**
 - Owned and refined 20+ active fraud rules; reduced non-actionable alert volume by 35% within a targeted rule set while verifying that known fraud was still detected
