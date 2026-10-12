@@ -1,69 +1,44 @@
-# Minjoo (Mia) Sung | Risk & Fraud Analyst
+# Minjoo (Mia) Sung · Fraud & Risk Analytics
 
-## 👋 About Me
-Risk & Fraud Analyst with **5+ years of specialized experience** in fraud detection and financial crime prevention across **traditional banking** (HSBC, SMBC) and **innovative fintech** (ProBit Global). Recent **USC Marshall MSBA graduate** with expertise in machine learning applications for fraud analytics.
+I find abusive accounts and risky activity in data, then turn what investigations reveal into detection rules, models, and better risk decisions.
 
-**My Journey**: Apple Operations → Banking Compliance → Fintech Innovation → Advanced Analytics
-
-## 🚀 Impact & Achievements
-💰 $18B+ projected annual savings through ML fraud detection systems
-🎯 61% fraud detection rate in production models
-⚙️ 1,600+ engineered features for behavioral pattern analysis
-📈 200% revenue growth contribution through AML system modernization
-🔍 1M+ financial records processed with advanced data quality management
-
-## 🛠️ Technical Arsenal
-
-**Languages & Analytics**
-Python | SQL | R | Statistical Modeling | Machine Learning
-
-**Specialized Tools & Platforms**
-LightGBM | Tableau | Power BI | Google BigQuery | Git
-LexisNexis | World-Check | Chainalysis | FircoTM | Alteryx
-
-**Domain Expertise**
-Fraud Detection | Risk Analytics | AML/KYC | Transaction Monitoring | Feature Engineering
-
-## 📊 Featured Projects
-
-### 🔍 Account Origination Fraud Detection System
-**USC Marshall | Financial Services Innovation**
-- **Challenge**: Detect fraudulent credit card & cell phone applications from synthetic data
-- **Solution**: End-to-end ML pipeline with sophisticated feature engineering
-- **Results**: 61.2% detection rate, $18B+ projected savings, 3% optimal threshold
-- **Tech Stack**: Python, LightGBM, Advanced Feature Engineering (1,600+ features)
-- **Data Scale**: 1M+ application records with PII data management
-
-### 💳 Credit Card Fraud Detection Using Machine Learning  
-**USC Marshall | Real-world Transaction Analysis**
-- **Challenge**: Identify fraudulent transactions in highly imbalanced dataset
-- **Solution**: Comprehensive ML pipeline comparing 5 algorithms with advanced feature engineering
-- **Results**: 57.24% precision in top 3% flagged transactions, $40M+ projected savings
-- **Tech Stack**: Python, Multiple ML Algorithms, Benford's Law, Geographic Risk Scoring
-- **Data Scale**: 97K+ transaction records with temporal validation
-
-## 🎓 Education & Certifications
-
-**🎓 Master of Science in Business Analytics** | USC Marshall School of Business (2025)
-- *Specialization*: Fraud Analytics, Machine Learning, Time-Series Forecasting
-- *Honors*: Marshall Merit-Based Fellowship, Dean's Honor List
-
-**🎓 Bachelor of Arts in Economics** | UC Berkeley
-- *Focus*: Econometrics, Statistical Analysis, Financial Economics
-
-**📜 Certifications**: Complete SQL Bootcamp | Tableau Training for Data Science
-
-## 🌟 What Sets Me Apart
-
-- **Unique Domain Expertise**: Traditional banking + cutting-edge fintech experience
-- **End-to-End Analytics**: From data collection to production model deployment  
-- **Business Impact Focus**: Always tie technical solutions to measurable outcomes
-- **Cross-Cultural Perspective**: Global experience across US and Asia-Pacific markets
-
-## 📫 Let's Connect
-
-**💼 LinkedIn**: [linkedin.com/in/minjoosung](https://linkedin.com/in/minjoosung)  
-**📧 Email**: mia.sung.us@gmail.com  
+About five years across banking AML/KYC (HSBC, SMBC, Bank of Communications), a global crypto exchange (ProBit Global), and a U.S. digital bank (Monzo). M.S. in Business Analytics, USC Marshall.
 
 ---
-*"Every dataset tells a story. My job is to find the anomalies that matter."*
+
+## What I work on
+
+- **Investigations → detection:** account takeover and linked-account analysis with device, IP, and transaction signals; turning recurring patterns into rules and onboarding checks
+- **Detection quality:** tuning rule conditions and thresholds against investigation outcomes, while checking that known fraud is still caught
+- **Metric integrity:** tracing risk metrics back to source tables, fixing loss definitions, and validating numbers before they reach leadership
+- **Modeling:** feature engineering for identity linkage, velocity, and recency; supervised (LightGBM) and unsupervised (PCA + autoencoder) fraud scoring
+
+## Selected work highlights
+
+*Professional work. No confidential data is published here.*
+
+- Reduced non-actionable alerts by 35% within targeted rules across a portfolio of 20+ fraud rules, verifying that known fraud was still detected (crypto exchange)
+- Expanded account-takeover investigations to linked accounts using SQL; set account-level withdrawal restrictions based on combined evidence rather than a single shared signal
+- Rebuilt a fraud-loss methodology across three source datasets, correcting reported losses by 35%; validated seven risk metrics (U.S. digital bank)
+- Backtested a vendor fraud score across 27K+ onboarding applications with Data Science and recommended targeted verification over automatic rejection
+- Used Claude Code, Cursor, and Gemini CLI with BigQuery for query work, plus independent recalculation to validate report figures
+
+## Projects (USC Marshall, Fraud Analytics)
+
+| Project | What it shows | Result |
+|---|---|---|
+| [Application Fraud Detection](https://github.com/minjoos/application_fraud_detection) | Placeholder cleanup to prevent false identity links, 1,500+ linkage/velocity features, KS + forward selection, 5-model comparison | 61.2% of fraud captured in top 3% (OOT) |
+| [Card Transaction Fraud Detection](https://github.com/minjoos/credit-card-fraud-detection) | 2,600+ behavioral and velocity features across 0–60 day windows, LightGBM | 57.2% of fraud captured in top 3% (OOT) |
+| [NYC Property Anomaly Detection](https://github.com/minjoos/nyc-property-anomaly-detection) | Unsupervised scoring with no labels: peer-normalized features, PCA distance + autoencoder, explainable review queue | 1.04M records ranked; top-10K queue |
+
+All three are academic projects on course or public data, not production systems.
+
+## Tools
+
+**Analysis:** SQL (BigQuery, CTEs, window functions) · Python (pandas, scikit-learn, LightGBM) · dbt (code review) · Looker · Tableau
+**AI-assisted workflow:** Claude Code · Cursor · Gemini CLI
+**Investigation:** Chainalysis · World-Check · Jira
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/minjoosung) · mia.sung.us@gmail.com
