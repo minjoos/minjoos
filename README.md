@@ -1,27 +1,33 @@
-# Minjoo (Mia) Sung · Fraud & Risk Analytics
+# Minjoo (Mia) Sung · Senior Fraud & Risk Analyst
 
-I find abusive accounts and risky activity in data, then turn what investigations reveal into detection rules, models, and better risk decisions.
+Fraud detection, risk analytics, and identity & payments risk, built on SQL/BigQuery and grounded in hands-on investigations.
 
-About five years across banking AML/KYC (HSBC, SMBC, Bank of Communications), a global crypto exchange (ProBit Global), and a U.S. digital bank (Monzo). M.S. in Business Analytics, USC Marshall.
+5+ years across a U.S. digital bank (Monzo US), a global crypto exchange (ProBit Global), and banking financial-crime roles (HSBC, SMBC, Bank of Communications). M.S. in Business Analytics, USC Marshall.
 
 ---
 
 ## What I work on
 
-- **Investigations → detection:** account takeover and linked-account analysis with device, IP, and transaction signals; turning recurring patterns into rules and onboarding checks
-- **Detection quality:** tuning rule conditions and thresholds against investigation outcomes, while checking that known fraud is still caught
-- **Metric integrity:** tracing risk metrics back to source tables, fixing loss definitions, and validating numbers before they reach leadership
-- **Modeling:** feature engineering for identity linkage, velocity, and recency; supervised (LightGBM) and unsupervised (PCA + autoencoder) fraud scoring
+- **Fraud detection & rule quality:** owning rule portfolios, tuning signal combinations and thresholds against investigation outcomes, and cutting non-actionable alerts while known fraud is still caught
+- **Identity & onboarding risk:** evaluating vendor scores and onboarding decisions against downstream fraud, balancing fraud capture, review volume, and customer friction
+- **Payments risk & root-cause analysis:** tracing anomalies to their source in BigQuery and partnering with Engineering through remediation
+- **Metric integrity:** rebuilding loss methodology, tracing risk metrics to source tables, and validating numbers before they reach leadership
+- **Investigations → controls:** account-takeover and linked-account analysis with device, IP, behavioral, and transaction signals, turned into scalable onboarding controls
 
 ## Selected work highlights
 
 *Professional work. No confidential data is published here.*
 
-- Reduced non-actionable alerts by 35% within targeted rules across a portfolio of 20+ fraud rules, verifying that known fraud was still detected (crypto exchange)
-- Expanded account-takeover investigations to linked accounts using SQL; set account-level withdrawal restrictions based on combined evidence rather than a single shared signal
-- Rebuilt a fraud-loss methodology across three source datasets, correcting reported losses by 35%; validated seven risk metrics (U.S. digital bank)
-- Backtested a vendor fraud score across 27K+ onboarding applications with Data Science and recommended targeted verification over automatic rejection
-- Used Claude Code, Cursor, and Gemini CLI with BigQuery for query work, plus independent recalculation to validate report figures
+**Monzo US**
+- Rebuilt U.S. fraud-loss methodology in BigQuery across chargebacks, recoveries, write-offs, and negative balances; corrected a 35% overcount in reported losses
+- Backtested a vendor fraud score across 27K+ onboarding applications with Data Science; recommended targeted verification and manual review rather than automatic rejection
+- Traced a negative-balance spike to an ACH return-file issue blocking ~250 valid returns; partnered with Engineering on remediation
+- Validated seven fraud and operations metrics across BigQuery and Looker, uncovering a 26% understatement in fraud cost per active customer
+
+**ProBit Global**
+- Owned and refined 20+ active fraud rules; reduced non-actionable alert volume by 35% within a targeted rule set while verifying that known fraud was still detected
+- Expanded account-takeover investigations to linked accounts using SQL; evidence-based restrictions reduced at-risk withdrawal exposure by 43% across investigated accounts
+- Translated linked-account patterns into device, IP, behavioral, and session-based onboarding controls
 
 ## Projects (USC Marshall, Fraud Analytics)
 
@@ -36,7 +42,7 @@ All three are academic projects on course or public data, not production systems
 ## Tools
 
 **Analysis:** SQL (BigQuery, CTEs, window functions) · Python (pandas, scikit-learn, LightGBM) · dbt (code review) · Looker · Tableau
-**AI-assisted workflow:** Claude Code · Cursor · Gemini CLI
+**AI-assisted workflow:** Claude Code · Cursor · Gemini CLI for query work, with independent recalculation to validate report figures
 **Investigation:** Chainalysis · World-Check · Jira
 
 ## Contact
